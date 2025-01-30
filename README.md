@@ -1,4 +1,4 @@
-# Projets-lyc-e
+# Projets-lycee
 Quelques projets menés durant mes années lycée.
 
 
